@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #080808;
+    color: #fff;
+  }
+  
+main {
+    padding: 2rem;
+    margin: 0 auto;
+  }
+  .about{
+    margin: 10px 10px;
+  }
+  
+  section {
+    margin-bottom: 2rem;
+  }
+  .contact{
+    margin-top: 15px;
+  }
+  footer{
+    margin-top: 15px;
+  }
